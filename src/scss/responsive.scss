@@ -2,6 +2,7 @@
   .logo {
     width: 4.3vw;
   }
+
   .container {
     padding-left: 30px !important;
     padding-right: 30px !important;
@@ -10,14 +11,14 @@
 
 @media($max-sm) {
   .logo {
+    position: absolute;
     width: 80px;
     transform: rotate(90deg) translate(-80px, -80px);
   }
 }
 
 @media($max-md) {
-  .banner-image
-    img {
+  .banner-image img {
     margin-top: 20px;
   }
 }

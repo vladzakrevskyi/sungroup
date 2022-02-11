@@ -21,7 +21,11 @@ p {
 }
 
 .line-height-26 {
-    line-height: 26px;
+  line-height: 26px;
+}
+
+.font-size-16 {
+  font-size: 16px !important;
 }
 
 .font-gotham {
@@ -52,18 +56,20 @@ p {
 }
 
 .logo {
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
-  transition: all .5s;
+  transition: all 0.5s;
 }
 
 .specification {
   padding: 0 15px;
+
   .table {
     font-size: 20px;
     line-height: 30px;
     text-align: left;
+
     tbody {
       td {
         border-bottom: 1px solid rgba($color-grey, 0.3);
