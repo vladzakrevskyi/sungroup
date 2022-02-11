@@ -1,0 +1,90 @@
+body {
+  font-family: "Lato", sans-serif !important;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 56px !important;
+  text-align: left;
+}
+
+h2 {
+  font-size: calc(18px + 24 * (100vw / 1280)) !important;
+  line-height: 60px !important;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
+
+.line-height-26 {
+    line-height: 26px;
+}
+
+.font-gotham {
+  font-family: 'Gotham-Book', sans-serif !important;
+  font-weight: 100;
+}
+
+.font-size-20 {
+  font-size: 20px !important;
+}
+
+.container {
+  &-blue {
+    background: $color-blue;
+  }
+}
+
+.pt-100 {
+  padding-top: 100px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.p-100 {
+  padding: 100px 0;
+}
+
+.logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: all .5s;
+}
+
+.specification {
+  padding: 0 15px;
+  .table {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    tbody {
+      td {
+        border-bottom: 1px solid rgba($color-grey, 0.3);
+        padding: 10px 0;
+
+        &:first-child {
+          width: 27%;
+        }
+
+        span {
+          font-size: 14px;
+        }
+      }
+    }
+  }
+
+  &-info {
+    text-align: right;
+  }
+
+  &-table {
+    padding: 0 15px;
+  }
+}

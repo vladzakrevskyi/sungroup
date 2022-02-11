@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Procesor",
+    "desc": "Do Intel® Core™ i7 10. generacji"
+  },
+  {
+    "id": 2,
+    "name": "System operacyjny",
+    "desc": "Windows 10 Home"
+  },
+  {
+    "id": 3,
+    "name": "Wyświetlacz",
+    "desc": "<p>14” UHD (3840 x 2160) HDR IPS, 500 nitów z Dolby Vision</p> <p>14” FHD (1920 x 1080) IPS, 400 nitów z Dolby Vision</p> <p>Wąskie ramki ekranu: lewa/prawa: 3,4 mm, górna 6,7 mm, dolna: 11,8 mm</p> <p>Spodziewana dostępność w modelu HDR z końcem 2019 r.</p>"
+  },
+  {
+    "id": 4,
+    "name": "Pamięć",
+    "desc": "Do 16 GB pamięci LPDDR4X"
+  },
+  {
+    "id": 5,
+    "name": "Bateria",
+    "desc": "<p>Do 15 godzin z wyświetlaczem FHD </p> <p>Do 10 godzin z wyświetlaczem UHD </p> <span>* Na podstawie testu MobileMark 2014. Czas działania baterii znacznie się różni w zależności od ustawień, sposobu wykorzystania i innych czynników.</span>"
+  },
+  {
+    "id": 6,
+    "name": "Pamięć masowa",
+    "desc": "Do 1 TB PCIe SSD"
+  },
+  {
+    "id": 7,
+    "name": "Grafika",
+    "desc": "<p>Intel® HD Iris</p> <p>Opcjonalnie: NVIDIA® GeForce® MX250 2GB</p>"
+  },
+  {
+    "id": 8,
+    "name": "Zabezpieczenia",
+    "desc": "Kamera na podczerwień do logowania się bez użycia rąk"
+  },
+  {
+    "id": 9,
+    "name": "Dźwięk",
+    "desc": "<p>Dolby Atmos® Speaker System</p> <p>Mikrofony dalekiego zasięgu</p>"
+  },
+  {
+    "id": 10,
+    "name": "Asystenci cyfrowi",
+    "desc": "<p>Cortana</p> <p>Alexa†</p> <p>Spodziewana dostępność z końcem 2019 r. Tylko na wybranych rynkach.</p>"
+  },
+  {
+    "id": 11,
+    "name": "Kamera",
+    "desc": "720p"
+  },
+  {
+    "id": 12,
+    "name": "Wymiary (szer. x wys. x głęb.)",
+    "desc": "322,3 mm x 212 x 14,9 mm krawędź przednia i 18,1 mm krawędź tylna"
+  },
+  {
+    "id": 13,
+    "name": "Waga",
+    "desc": "Od 1,4 kg"
+  },
+  {
+    "id": 14,
+    "name": "Opcje kolorystyczne",
+    "desc": "<p>Iron Grey (żelaznoszary)</p> <p>Mika</p>"
+  },
+  {
+    "id": 15,
+    "name": "Łączność",
+    "desc": "<p>Intel® Wireless-AC 2x2</p> <p>Wi-Fi 6 (dostępność z końcem 2019 r.)</p>"
+  },
+  {
+    "id": 16,
+    "name": "Klawiatura",
+    "desc": "Podświetlana klawiatura"
+  },
+  {
+    "id": 17,
+    "name": "Gniazda",
+    "desc": "  <p>USB-C (USB + DisplayPort + zasilanie + Thunderbolt™ 3)</p> <p>2 x USB 3.1 (2. generacji, jedno zawsze aktywne)</p> <p>Gniazdo słuchawek/mikrofonu</p> <p>Zasilanie</p>"
+  }
+]
