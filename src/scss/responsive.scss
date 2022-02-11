@@ -10,10 +10,37 @@
 }
 
 @media($max-sm) {
+  h1,
+  h2 {
+    line-height: 35px !important;
+  }
+
   .logo {
     position: absolute;
     width: 80px;
     transform: rotate(90deg) translate(-80px, -80px);
+  }
+
+  .text-center-sm {
+    text-align: center;
+  }
+
+  .specification {
+    padding: 0;
+
+    &-info {
+      text-align: left;
+    }
+  }
+
+  .table {
+    td {
+      font-size: 14px;
+
+      p {
+        font-size: 14px;
+      }
+    }
   }
 }
 

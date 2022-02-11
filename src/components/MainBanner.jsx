@@ -12,8 +12,8 @@ export function MainBanner() {
             lg={6}
             className="d-flex flex-column justify-content-center"
           >
-            <h1 className="font-gotham text-white">Yoga S740 (14)</h1>
-            <h1 className="font-gotham text-white">
+            <h1 className="font-gotham text-white text-center-sm">Yoga S740 (14)</h1>
+            <h1 className="font-gotham text-white text-center-sm">
               Wyróżniająca inteligencja
             </h1>
             <p className="font-gotham text-white line-height-26 font-size-16 mt-5">
